@@ -63,7 +63,7 @@ To validate our automated clusters, a downstream differential expression profile
 ---
 
 ## 🚀 Pipeline Replication & Computational Portability
-Admissions committees or independent researchers can replicate this exact computational state effortlessly in under 5 minutes without downloading local packages:
+This workflow is structured for complete computational portability, allowing researchers to replicate the exact analysis and dataset endpoints in under 5 minutes without requiring local package installations:
 
 1. Navigate to the `/workflows/` directory inside this repository and download the system file: `Clustering_3K_PBMCs_with_Scanpy.ga`.
 2. Access the public cloud infrastructure at the [Galaxy Single Cell Hub](https://usegalaxy.org).
